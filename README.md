@@ -10,4 +10,4 @@ Light/Dark Theme Toggle with JavaScript
 
 💙 preview
 [preview img](/img/screencapture-127-0-0-1-5500-Pizza-website-html-2023-01-24-11_29_25.png)
-[preview img](/img/screencapture-127-0-0-1-5500-Pizza-website-html-2023-01-24-11_29_55.png)
+
